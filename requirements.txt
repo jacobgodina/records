@@ -1,0 +1,6 @@
+Flask
+flask_cors
+mutagen
+Pillow
+Flask-SQLAlchemy
+mysql-connector-python
